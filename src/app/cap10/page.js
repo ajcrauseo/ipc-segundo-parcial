@@ -36,7 +36,7 @@ export default function Cap10Page() {
         <hr className="border-0 h-px bg-gray-300 my-8" />
 
         <h2 className="text-2xl font-semibold text-[#3498db] border-b border-gray-300 pb-2 mt-8 mb-4">
-          Resumen del Capítulo 10: La estructura de las teorías científicas y la contrastación de hipótesis (págs. 241-269)
+          Capítulo 10: La estructura de las teorías científicas y la contrastación de hipótesis
         </h2>
         <p className="mb-4">
           Este capítulo, central en la filosofía clásica de la ciencia, se divide en dos grandes partes. La primera analiza la <strong>estructura de las teorías científicas</strong> y la segunda, el <strong>proceso de contrastación o puesta a prueba de las hipótesis</strong>.
