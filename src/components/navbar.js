@@ -16,7 +16,7 @@ export default function Navbar() {
   ];
 
   return (
-    <nav className="bg-white shadow-md w-full z-10 top-0 left-0">
+    <nav className="bg-white shadow-md w-full z-10 top-0 left-0 fixed">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Título */}
